@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #FFFF;
+    margin: 60px;
+}
+h1{
+    font-size: 18px;
+}
+p{
+    font-size: 14px;
+}
+._first p{
+    color: green;
+    padding: 20px 35px 60px 30px;
+    border: 1px solid green;
+}
+._second p{
+    color: red;
+    padding: 20px 35px 60px 30px;
+    border: 1px solid red;
+}
+._third p{
+    color: blue;
+    padding: 20px 35px 60px 30px;
+    border: 1px solid blue;
+}
+#special{
+    width: 20%;
+}
